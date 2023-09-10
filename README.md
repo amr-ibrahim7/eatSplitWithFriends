@@ -1,8 +1,8 @@
 # Split the Bill
 
-![image](https://github.com/amr-ibrahim7/eatsplitFriend/assets/109660214/7afe17e1-c0a6-4897-a783-1244341db8b1)
+![image](https://github.com/amr-ibrahim7/eatSplitWithFriends/assets/109660214/1b080e8a-fd94-49cd-bd55-ba7fd996636f)
 
-Live Deployment :: https://eatsplitfriend7.netlify.app//
+Live Deployment :: https://eatsplitwithfriends.netlify.app/
 
 This is simple react app to calculate the split the bill among the friends.
 
